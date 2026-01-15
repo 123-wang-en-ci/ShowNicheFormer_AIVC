@@ -26,7 +26,7 @@ Make sure you have the Python environment installed and the necessary dependenci
 pip install -r requirements.txt
 ```
 
-The weights and data needed in the code can be found in[www123222/ShowNicheFormer 在主页](https://huggingface.co/datasets/www123222/ShowNicheFormer/tree/main)
+The weights and data needed in the code can be found in[ShowNicheFormer](https://huggingface.co/datasets/www123222/ShowNicheFormer/tree/main)
 
 **Front-end (Unity):**
 

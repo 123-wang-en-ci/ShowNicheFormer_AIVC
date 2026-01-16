@@ -1,6 +1,6 @@
 
 
-# Nicheformer 3D: Spatial Transcriptomics Visualization System
+# NicheTwin3D: Spatial Transcriptomics Visualization System
 
 This system is an interactive spatial transcriptomics visualization system based on Unity and Deep Learning. It combines a high-performance 3D rendering engine with an advanced AI model (Nicheformer) to provide researchers with an intuitive platform to explore cell distribution, gene expression, cell type annotation, and tissue region segmentation.
 
@@ -8,11 +8,11 @@ This system is an interactive spatial transcriptomics visualization system based
 
 The system integrates five core analysis modules:
 
-- **Interactive 3D View**: Render tens of thousands of cells in three-dimensional space in real time to visually display tissue structure.  -
+- **Interactive 3D View**: Render tens of thousands of cells in three-dimensional space in real time to visually display tissue structure. 
 - **Gene Expression and Imputation (Gene Imputation)**: Query the expression level of specific genes in real time, and use the AI model to interpolate sparse data to restore the true expression pattern. 
 - **Auto Annotation**: Automatically predict cell types based on the Nicheformer model and generate a visual legend.  
 -  **Tissue Segmentation**: Automatically identify and segment different tissue functional areas (such as cortex, medulla, etc.), supporting independent display of single areas.  
-- -**Zero-Shot Clustering**: User-defined number of clusters, potential cell subpopulations can be discovered instantly without retraining.
+- **Zero-Shot Clustering**: User-defined number of clusters, potential cell subpopulations can be discovered instantly without retraining.
 
 ## Quick start
 
@@ -26,11 +26,11 @@ Make sure you have the Python environment installed and the necessary dependenci
 pip install -r requirements.txt
 ```
 
-The weights and data needed in the code can be found in[NicheTwin3D](https://huggingface.co/datasets/www123222/NicheTwin3D/tree/main)
+The weights and data needed in the code can be found in [NicheTwin3D](https://huggingface.co/datasets/www123222/NicheTwin3D/tree/main)
 
 **Front-end (Unity):**
 
-- Install Unity Hub and Unity Editor (2020.3 or higher recommended).  -
+- Install Unity Hub and Unity Editor (2020.3 or higher recommended).  
 - Assign the current project's Scripts folder
 
 ### 2. Running steps

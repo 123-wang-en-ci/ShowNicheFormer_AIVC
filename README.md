@@ -3,7 +3,7 @@
 # NicheTwin3D: Spatial Transcriptomics Visualization System
 
 This system is an interactive spatial transcriptomics visualization system based on Unity and Deep Learning. It combines a high-performance 3D rendering engine with an advanced AI model (Nicheformer) to provide researchers with an intuitive platform to explore cell distribution, gene expression, cell type annotation, and tissue region segmentation.
-
+![微信图片_20260116113644_335_11](https://github.com/user-attachments/assets/9e3dd99d-83cb-4362-a1c7-4e4afc8c58dd)
 ## The main function
 
 The system integrates five core analysis modules:
@@ -48,3 +48,4 @@ The weights and data needed in the code can be found in [NicheTwin3D](https://hu
    - Open the MainScene.  
    -  Click the **Play** button at the top.
 
+Video display link is visible [NicheTwin3D](https://youtu.be/3J2VAZUrzp4)
